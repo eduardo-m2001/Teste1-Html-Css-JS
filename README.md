@@ -1,7 +1,7 @@
 ## 💻 Sobre
 Teste prático 1 - Tela simples em Html/Css/Js 🚀
 
-Seja bem vindo ao Conversor de Números Romanos, o objetivo do teste é criar uma interface em HTML e CSS que fará uma simulação de conexão com uma API externa hospedada no GitHub. 
+Seja bem vindo, o objetivo do teste é criar uma interface em HTML e CSS que fará uma simulação de conexão com uma API externa hospedada no GitHub. 
 
 O projeto recebe os dados de um arquivo externo em json que irá receber os dados do objeto e exibirá diretamente nos elementos HTML como é mostrado no protótipo.
 
